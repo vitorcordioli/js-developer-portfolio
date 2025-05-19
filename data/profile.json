@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Vitor C Sandrini",
+  "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjxXNaf-c25EWmH0Bqd1Yot6tD1Vp-36hCg&s",
+  "job": "Software Developer",
+  "location": "Torres - RS",
+  "phone": "(11) 99999 - 9999",
+  "email": "exemplo@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -16,10 +16,6 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
-      },
-      {
         "name": "React",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
       },
@@ -28,8 +24,8 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       }
     ],
     "softSkills": [
@@ -42,7 +38,7 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
+    "Inglês (avançado)",
     "Espanhol (intermediário)",
     "Italiano (iniciante)"
   ],
